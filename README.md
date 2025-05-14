@@ -1,4 +1,4 @@
-# China Unicome VN007+ Firmware/SuperAdmin Guide
+# China Unicom VN007+ Firmware/SuperAdmin Guide
 This guide provides a step-by-step process for downgrading the China Unicom VN007+ and gaining superuser (admin) access; however, please be aware that your device may still be at risk of bricking, even if you follow the instructions carefully or choose not to follow them.
 
 ## **Downgrade**
